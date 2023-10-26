@@ -9,7 +9,7 @@ I have recently started my coding journey with 'web development and design' to s
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [https://pratyush2529.github.io/Portfolio/](http://https://pratyush2529.github.io/Portfolio/)
 * ✉️  You can contact me at [pratyushsharma25feb@gmail.com](mailto:pratyushsharma25feb@gmail.com)
-* 🧠  I'm learning JavaScript
+* 🧠  I'm learning React.js
 * 🤝  I'm open to collaborating on projects including frontend development and design
 * ⚡  I also love editing videos and give them a professional touch. I use DaVinci resolve 18.
 
