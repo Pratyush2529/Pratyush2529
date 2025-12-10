@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pratyush Sharma
 =======================================================================================================================================
 
-budding web developer and designer
+MERN stack developer developing websites that work!
 ----------------------------------
 
 I have recently started my coding journey with 'web development and design' to start with. On my way, I learned HTML and CSS and I'm currently learning JavaScript. Apart from that, I'm learning C++ to have my hands on data structures and different algorithms.
@@ -9,7 +9,7 @@ I have recently started my coding journey with 'web development and design' to s
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [https://pratyush2529.github.io/Portfolio/](http://https://pratyush2529.github.io/Portfolio/)
 * ✉️  You can contact me at [pratyushsharma25feb@gmail.com](mailto:pratyushsharma25feb@gmail.com)
-* 🧠  I'm learning React.js
+* 🧠  I'm working on NodeJS
 * 🤝  I'm open to collaborating on projects including frontend development and design
 * ⚡  I also love editing videos and give them a professional touch. I use DaVinci resolve 18.
 
